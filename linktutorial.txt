@@ -1,0 +1,3 @@
+https://medium.com/@kiddy.xyz/tutorial-laravel-5-4-crud-86c0a977d165
+https://www.malasngoding.com/crud-laravel-menggunakan-eloquent/
+
